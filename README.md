@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sachintha</h3><br><br>I'm an undergraduate student at SLIIT University in Sri Lanka, with a deep passion for software development and a keen interest in exploring new technologies. 🚀<br><br>### 💻 About Me<br><br>- 🌱 Currently learning and growing as a software developer.<br>- 🔍 Actively exploring and embracing new technologies to stay at the forefront of the tech world.<br>- 🎓 Pursuing my undergraduate software engineering degree at SLIIT University.<br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
