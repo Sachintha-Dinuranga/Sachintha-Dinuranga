@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## 👋 Hello, I'm Sachintha!<br><br>I'm an undergraduate student at SLIIT University in Sri Lanka, with a deep passion for software development and a keen interest in exploring new technologies. 🚀<br><br>### 💻 About Me<br><br>- 🌱 Currently learning and growing as a software developer.<br>- 🔍 Actively exploring and embracing new technologies to stay at the forefront of the tech world.<br>- 🎓 Pursuing my undergraduate software engineering degree at SLIIT University.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachintha-Dinuranga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sachintha-dinuranga-220547256) 
