@@ -1,7 +1,8 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sachintha</h3><br><br>I'm an undergraduate student at SLIIT University in Sri Lanka, with a deep passion for software development and a keen interest in exploring new technologies. 🚀<br><br>### 💻 About Me<br><br>- 🌱 Currently learning and growing as a software developer.<br>- 🔍 Actively exploring and embracing new technologies to stay at the forefront of the tech world.<br>- 🎓 Pursuing my undergraduate software engineering degree at SLIIT University.<br><br>
 
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sachintha</h3><br><br>I'm an undergraduate student at SLIIT University in Sri Lanka, with a deep passion for software development and a keen interest in exploring new technologies. 🚀<br><br>### 💻 About Me<br><br>- 🌱 Currently learning and growing as a software developer.<br>- 🔍 Actively exploring and embracing new technologies to stay at the forefront of the tech world.<br>- 🎓 Pursuing my undergraduate software engineering degree at SLIIT University.<br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachintha-Dinuranga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sachintha-dinuranga-220547256) 
@@ -21,6 +22,5 @@
 ![](https://komarev.com/ghpvc/?username=Sachintha-Dinuranga)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
