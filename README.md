@@ -1,8 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sachintha</h3><br>I'm an undergraduate student at SLIIT University in Sri Lanka, with a deep passion for software development and a keen interest in exploring new technologies. 🚀<br><br>### 💻 About Me<br><br>- 🌱 Currently learning and growing as a software developer.<br>- 🔍 Actively exploring and embracing new technologies to stay at the forefront of the tech world.<br>- 🎓 Pursuing my undergraduate software engineering degree at SLIIT University.<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachintha-Dinuranga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sachintha-dinuranga-220547256) 
